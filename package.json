@@ -1,0 +1,70 @@
+{
+    "name": "fed-extension-pack",
+    "displayName": "iuunhao.fed-development-pack",
+    "description": "A front extension package that contains a Vue, ES6, HTML, CSS, vim, TODO",
+    "version": "0.0.1",
+    "publisher": "mubaidr",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "icon": "fed-icon.png",
+    "galleryBanner": {
+        "color": "#333333",
+        "theme": "dark"
+    },
+    "keywords": [
+        "javascript",
+        "vue.js",
+        "vuejs",
+        "vue",
+        "node",
+        "html",
+        "css",
+        "TODO",
+        "vim",
+        "es6"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "url": "https://github.com/iuunhao/fed-extension-pack"
+    },
+    "homepage": "https://github.com/iuunhao/fed-extension-pack",
+    "bugs": {
+        "url": "https://github.com/iuunhao/fed-extension-pack/issues"
+    },
+    "extensionDependencies": [
+        "luf.anyview",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "mrmlnc.vscode-autoprefixer",
+        "kamikillerto.vscode-colorize",
+        "mrmlnc.vscode-csscomb",
+        "astral-keks.folder-indexing",
+        "abusaidm.html-snippets",
+        "mkaufman.HTMLHint",
+        "wix.vscode-import-cost",
+        "xabikos.JavaScriptSnippets",
+        "chenxsan.vscode-standardjs",
+        "capaj.vscode-standardjs-snippets",
+        "donjayamanne.jquerysnippets",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "coderfee.open-html-in-browser",
+        "christian-kohler.path-intellisense",
+        "JakeWilson.vscode-placeholder-images",
+        "alefragnani.project-manager",
+        "wayou.vscode-todo-highlight",
+        "minhthai.vscode-todo-parser",
+        "octref.vetur",
+        "vscodevim.vim",
+        "mikey.vscode-fileheader",
+        "hollowtree.vue-snippets",
+        "dariofuzinato.vue-peek",
+        "sdras.vue-vscode-snippets",
+        "richie5um2.snake-trail",
+        "JerryHong.autofilename",
+        "formulahendry.code-runner"
+    ]
+}
